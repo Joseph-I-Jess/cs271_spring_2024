@@ -1,7 +1,7 @@
-Last updated 01 April, 2023
+Last updated 30 March, 2024
 
 ### CS271 -- Computer Architecture/Assembly Language
-Spring 2023  
+Spring 2024  
 CRN: 44747  
 Credits: 4  
 Instructor: Joseph Jess  
@@ -30,7 +30,7 @@ Introduces functional organization and architecture of digital computers. Topics
 
 ### 2. Class Time-space:
 1.  **Note**: This class is delivered in a flexible format (you will not need to attend live sessions).
-2.  **Lecture + demo + lab**: MW 1400 -- 1550, flexible, see Moodle for details
+2.  **Lecture + demo + lab**: M 1400 -- 1550, flexible, see Moodle for details
 
 ---
 
@@ -140,7 +140,3 @@ For a list of general administration information (note that this list is not int
 (each section contains a number of sub-sections and is not meant to be exhaustive of all situations)  
 see my administrative information document:
 [*Additional Administrative Information*](https://docs.google.com/document/d/1NTerBXVow4rFbZGEpWJKpkpA9DpyOSAfjzJ4FKhf0FU/ "Additional Administrative Information (Google Doc)" ).
-
-Changelog:
-1.  31 December, 2020, v1.0.0: initial release
-2.  01 April, 2023, v1.0.1: markdown for GitHub viewing
